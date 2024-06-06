@@ -158,7 +158,7 @@ a {
 }
 
 .clients .images {
-    margin-top: 96px;
+    margin-top: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -599,6 +599,10 @@ a {
     width: 28px;
     height: 28px;
     border-radius: 3px;
+}
+
+.footer .social-link + .social-link {
+    margin-left: 16px;
 }
 
 .footer .social-link:hover {
